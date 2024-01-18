@@ -1,3 +1,13 @@
+/* 
+****IMPORTANT NOTE****
+To run this code on your ESP32-CAM, you need to download this library from here:
+https://github.com/yoursunny/esp32cam.git
+
+It's an Arduino IDE library. To add it to your Arduino IDE:
+
+Open Arduino -> Sketch -> Include Library -> Add .ZIP Library… ->
+And then Navigate to downloaded zip file -> add
+*/
 #include <WebServer.h>
 #include <WiFi.h>
 #include <esp32cam.h>
