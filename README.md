@@ -7,4 +7,4 @@ Code snippets for ESP32 Camera Module
 * [Camera Web Server](arduino_ide/CameraWebServer/)
 
 ### Python and MicroPython Programming:
-* [OCR (Text Recognition) with OpenCV and ESP32 Camera](python/image_classification_opencv/)
+* [OCR (Text Recognition) with OpenCV and ESP32 Camera](python/ocr_esp32cam_opencv/)
